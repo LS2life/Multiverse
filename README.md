@@ -6,4 +6,3 @@
 # thank you.
 # May your wisdom take you one step further, avoiding the curse of knowledge.
 # And i hope that your best choice will always be the best choice.
-
